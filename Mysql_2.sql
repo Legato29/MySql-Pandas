@@ -24,7 +24,9 @@ INSERT INTO customer (id, name, referee_id) VALUES
 select * from customer;
 */
 
-select id,name from customer where referee_id !=2 or referee_id is null;
+select id,name 
+from customer 
+where referee_id !=2 or referee_id is null;
 
 #在mysql中referee_id !=2 不會判定null不等於2，因為null和任何值判定都是false
 #所以要加入referee_id is null的條件
