@@ -1,3 +1,2 @@
 # MySql-Pandas
-
-![MS_1]("C:\Users\Legato\Desktop\資料師\LeetCode\Mysql\github\Mysql_1.png")
+![MS_1](./images/Mysql_1.png)
