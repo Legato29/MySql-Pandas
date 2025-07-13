@@ -1,4 +1,5 @@
-# MySql-Pandas
+# MySql-Pandas  
+#這裡是存放 在leetcode上 mysql與 python 的練習與筆記，同時探討如何用python串接mysql、並在python中操作mysql
 #新建資料夾的方式：GitHub 不允許建立「空資料夾」，所以你需要放一個暫時的檔案   
 #在名稱地方輸入：images/placeholder.txt，暫時建立placeholder.txt檔，並建立"images"的資料夾   
 
