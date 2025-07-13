@@ -27,4 +27,4 @@ select product_id
 from products
 where low_fats='Y' and recyclable = 'Y';
 
-![MS_1](./images/Mysql_1.png)
+
