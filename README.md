@@ -4,4 +4,6 @@
 
 #由於.sql的檔案是純文字檔，所以無法渲染出圖片，因此額外開images的資料夾存放mysql執行結束前後的樣貌  
 Mysql圖片：   
-![MS_1](./images/Mysql_1.png)
+![MS_1](./images/Mysql_1.png)  
+![MS_1](./images/Mysql_2.png)  
+![MS_1](./images/Mysql_3.png)
