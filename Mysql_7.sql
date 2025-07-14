@@ -13,6 +13,7 @@ CREATE TABLE if not exists Sales1 (
     price DECIMAL(10, 2),
     FOREIGN KEY (product_id) REFERENCES Products1(product_id)
 );
+#FOREIGN KEY (子表的欄位名) REFERENCES 主表(主表的欄位名)
 
 INSERT IGNORE INTO Products1 (product_id, product_name) VALUES
 (100, 'Nokia'),
