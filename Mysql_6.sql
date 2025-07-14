@@ -4,7 +4,7 @@ create table if not exists employee_uni(id int primary key ,unique_id int);
 
 INSERT IGNORE INTO employees (id,name)
 VALUES 
-		(1,"Alice"),
+	(1,"Alice"),
         (7,"Bob"),
         (11,"Meir"),
         (90,"Winston"),
@@ -13,7 +13,7 @@ VALUES
 
 INSERT IGNORE INTO employee_uni (id,unique_id)
 VALUES 
-		(3,1),
+	(3,1),
         (11,2),
         (90,3)
 ;
