@@ -17,4 +17,4 @@ Mysql圖片：
 
 Notion - Git    筆記整理：https://charmed-cairnsmore-52c.notion.site/Git-23cbf70ac5a8807887b7f49617dc6a60  
 Notion - Docker 筆記整理：https://charmed-cairnsmore-52c.notion.site/Docker-23cbf70ac5a8801699aedf3940f73678  
-
+Notion - MongoDB筆記整理：https://charmed-cairnsmore-52c.notion.site/Monogo-DB-23dbf70ac5a880e9a028e9ed74c78b47?pvs=73
